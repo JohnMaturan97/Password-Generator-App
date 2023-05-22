@@ -1,1 +1,1 @@
-export const COPY_SUCCESS = 'New User Database Password Successfully Copied'
+export const COPY_SUCCESS = 'New Password Successfully Copied'
